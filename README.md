@@ -11,7 +11,7 @@
 Pre-tasks to complete before ThaiPASS 2025.
 There are three tasks for you to complete in here. There is also a tutorial folder to help you with basic python skills if you need it. Please note that the tutorial material does not need to be submitted, it is just for practice. 
 
-For students with little or no Python experience, we recommend that you register and work on the basic Python ThaiMOOC by Dr Teeraparb Chantavat.
+For students with little or no Python experience, we recommend that you register and work on any basic Python online courses e.g. on ThaiMOOC.
 
 The exercise will be in the form of an iPython notebook which you can use Anaconda to open (using the Jupyter Notebook application).
 
